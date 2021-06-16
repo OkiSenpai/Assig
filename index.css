@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+* {
+    background-color: rgb(27, 29, 37);
+}
+
+p {
+    color: rgb(253, 249, 249);
+}
+
+nav {
+    color: rgb(245, 234, 234);
+    padding-right: 7px;
+    float: left;
+    position: fixed;
+    top: 35%;
+    left: 80px;
+    font-size: 40px;
+
+
+}
+
+a {
+    margin: 10px;
+}
+
+section {
+    color: floralwhite;
+    width: 60%;
+    float: right;
+    clear: right;          
+    padding-left: 250px;
+
+}
+
+.bottom{
+    bottom: 0px;
+    position:fixed ;
+    right: 5px;
+}
