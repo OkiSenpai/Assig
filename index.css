@@ -6,6 +6,8 @@ body {
 h1 {
     color: rgb(255, 255, 255);
     font-size: 50px;
+     text-transform: capitalize;
+    
 }
 h2 {
     font-size: 35px;
@@ -22,13 +24,13 @@ p {
 }
 
 nav {
-    color: rgb(245, 234, 234);
     padding-right: 7px;
     float: left;
     position: fixed;
     top: 35%;
     left: 80px;
     font-size: 40px;
+ 
 
 
 }
@@ -50,4 +52,12 @@ section {
     bottom: 0px;
     position:fixed ;
     right: 5px;
+}
+a {
+    text-decoration: none;
+    
+}
+li{
+    list-style-type: none;
+    font-style: ;
 }
